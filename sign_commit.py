@@ -3,7 +3,7 @@ from cryptography.hazmat.primitives.asymmetric import padding
 import base64
 
 # 🔴 PASTE YOUR COMMIT HASH HERE
-COMMIT_HASH = "PASTE_YOUR_40_CHAR_COMMIT_HASH_HERE"
+COMMIT_HASH = "8442c35e0a091f084f8e339b6721113e407fc6a5"
 
 # Load student private key
 with open("student_private.pem", "rb") as f:
